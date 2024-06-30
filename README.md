@@ -6,4 +6,4 @@ I'm currently based in Brazil looking for new opportunities, and interested in c
 
 Interests and Objectives:
 
-Develop intuitive and impactful iOS applications; Continuously explore new technologies and methodologies in software engineering; Constantly learning and improving my skills, seeking to collaborate on innovative projects for iOS; Develop software that makes a difference; Connect with other developers and technology enthusiasts
+Develop intuitive and impactful iOS applications; Continuously explore new technologies and methodologies in software engineering; Constantly learning and improving my skills, Seeking to collaborate on innovative projects for iOS; Develop software that makes a difference; Connect with other developers and technology enthusiasts
