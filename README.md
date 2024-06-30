@@ -1,4 +1,4 @@
-I'm a Software Engineer, focused on C# and Unnity technologies, seeking to continue evolving as a developer to better develop solutions and always studying and updating to ensure deeper  knowledge.
+I'm a Software Engineer, focused on on iOS/Swift development and Unity/C# game development, seeking to continue evolving as a developer to better develop solutions and always studying to updating myself to acquire knowledge in the search to improve my hard skills.
 
 I am currently migrating to the software development area, where I discovered what I love to do, but already worked as a Lawyer for 6 years guaranteeing me deep knowledge soft skills such as communication, teamwork, intrapreneurship, and autonomy to learn by myself.
 
